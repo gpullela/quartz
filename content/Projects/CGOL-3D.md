@@ -1,13 +1,12 @@
 ---
-title: CGOL-3D 👾
+title: Conway's Game of Life in 3D 👾
 date: 2023-11-07
 ---
-## Conway's Game of Life in 3D 👾  
 This project is based on [[CGOL|Conway's Game of Life]].  For my initial implementation, I leveraged my knowledge [[c|C Programming]], [[HPC|High Performance Computing]], and [[OpenMP|the OpenMP library]] in order to develop a simple 3D adjusted simulation of the [[CGOL|Game of Life]].    
 
 ---
 ## Slides
->![[E517-Project-Presentation.pdf]]
+![[E517-Project-Presentation.pdf]]
 
 ---
 ## Resources

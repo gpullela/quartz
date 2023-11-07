@@ -2,7 +2,6 @@
 title: 🪴Welcome to my digital garden! 🪴
 date: 2023-11-07
 ---
-## 🪴Welcome to my digital garden! 🪴  
 ---
 Hello!  My name is Gourav Pullela and I am currently an undergraduate studying computer engineering.  Feel free to explore my digital garden!
 

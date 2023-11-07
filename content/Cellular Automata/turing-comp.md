@@ -2,8 +2,6 @@
 title: Turing Completeness
 date: 2023-11-07
 ---
-## Turing Completeness  
-
 A model of computation or a [[cellular-automaton|cellular automaton]] can be [[turing-comp|Turing-complete]] or computationally universal if it can be used to simulate a [[turing-machine|Turing machine]].  
 
 ## Resources
