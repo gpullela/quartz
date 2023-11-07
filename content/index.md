@@ -5,7 +5,7 @@ date: 2023-11-07
 ---
 Hello!  My name is Gourav Pullela and I am currently an undergraduate studying computer engineering.  Feel free to explore my digital garden!
 
-<a href="./assets/Resume/Gourav-Pullela-Resume.pdf">Resume</a> | [GitHub](https://github.com/gpullela) | [Linkedin](https://www.linkedin.com/in/gourav-pullela/)
+<a href="./assets/Resume/Gourav-Pullela-Resume.pdf" target="_blank">Resume</a> | [GitHub](https://github.com/gpullela) | [Linkedin](https://www.linkedin.com/in/gourav-pullela/)
 ## Check out my projects!  
 ---
 - [[IUBSAT]]
