@@ -1,6 +1,5 @@
 ---
 title: CGOL
-draft: "false"
 date: 2023-11-07
 ---
 ## Conway's Game of Life  

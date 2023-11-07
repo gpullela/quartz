@@ -1,6 +1,5 @@
 ---
 title: 🪴Welcome to my digital garden! 🪴
-draft: "false"
 date: 2023-11-07
 ---
 ## 🪴Welcome to my digital garden! 🪴  

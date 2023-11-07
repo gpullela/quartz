@@ -1,6 +1,5 @@
 ---
 title: CGOL-3D 👾
-draft: "false"
 date: 2023-11-07
 ---
 ## Conway's Game of Life in 3D 👾  

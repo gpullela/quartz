@@ -1,6 +1,5 @@
 ---
 title: OpenMP
-draft: "false"
 date: 2023-11-07
 ---
 ## The OpenMP API 🤝  
