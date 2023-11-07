@@ -1,7 +1,6 @@
 ---
-title: HPC ⚡️
+title: High Performance Computing
 date: 2023-11-07
 ---
-## High Performance Computing  
 HPC
 bleh

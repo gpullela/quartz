@@ -10,4 +10,5 @@ This project is based on [[CGOL|Conway's Game of Life]].  For my initial impleme
 
 ---
 ## Resources
-[GitHub](https://github.com/gpullela/CGOL-3D) | [Paper](obsidian://open?vault=content&file=assets%2FCGOL%2FConway%E2%80%99s-Game-of-Life-in-3D-Space.pdf)
+[GitHub](https://github.com/gpullela/CGOL-3D) | [Paper](../assets/CGOL/Conway’s-Game-of-Life-in-3D-Space.pdf)
+
