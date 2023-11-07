@@ -5,7 +5,7 @@ date: 2023-11-07
 This project is based on [[CGOL|Conway's Game of Life]].  For my initial implementation, I leveraged my knowledge [[c|C Programming]], [[HPC|High Performance Computing]], and [[OpenMP|the OpenMP library]] in order to develop a simple 3D adjusted simulation of the [[CGOL|Game of Life]].    
 
 ---
-## Slides
+## Slides  
 
 <object data="../assets/CGOL/E517-Project-Presentation.pdf" type="application/pdf" width="100%" height="500px">
     <embed src="../assets/CGOL/E517-Project-Presentation.pdf">
@@ -15,5 +15,7 @@ This project is based on [[CGOL|Conway's Game of Life]].  For my initial impleme
 
 ---
 ## Resources
-[GitHub](https://github.com/gpullela/CGOL-3D) | [Paper](../assets/CGOL/Conway’s-Game-of-Life-in-3D-Space.pdf)
+[GitHub](https://github.com/gpullela/CGOL-3D) | <a href="../assets/CGOL/Conway’s-Game-of-Life-in-3D-Space.pdf"><i>Paper</i></a>
+
+
 
