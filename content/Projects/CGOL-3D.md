@@ -6,7 +6,12 @@ This project is based on [[CGOL|Conway's Game of Life]].  For my initial impleme
 
 ---
 ## Slides
-![[E517-Project-Presentation.pdf]]
+
+<object data="../assets/CGOL/E517-Project-Presentation.pdf" type="application/pdf" width="100%" height="500px">
+    <embed src="../assets/CGOL/E517-Project-Presentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/CGOL/E517-Project-Presentation.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ---
 ## Resources
