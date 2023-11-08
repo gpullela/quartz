@@ -13,7 +13,11 @@ My name is Gourav Pullela and I am currently an undergraduate studying computer 
 - [[HPC-in-RSA|HPC in RSA]]
 - [[misc |Others]]
 
-You will find that many of the projects have linked notes - that is the beauty of a digital garden!  My notes written using [Obsidian.md](https://obsidian.md/) and built using [jackyzha0/quartz](https://quartz.jzhao.xyz/), which allows me to display this amazing vault as a website statically using [GitHub Pages](https://pages.github.com/).  
+## My Video of the day 📽️  
+---
+<video src="https://www.youtube.com/watch?v=QQ2QOPWZKVc&t=391s" controls="controls" style="max-width: 730px;"></video>
+
+You will find that many of the projects have linked notes - that is the beauty of a digital garden (and using Markdown files)!  My notes are written using [Obsidian.md](https://obsidian.md/) and built using [jackyzha0/quartz](https://quartz.jzhao.xyz/), which allows me to display this amazing vault as a website statically using [GitHub Pages](https://pages.github.com/) using a single Github Workflow.  
 
 
 
