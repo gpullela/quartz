@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Gourav's Digital Garden",
+    pageTitle: "Gourav's Digital Garden 🪴",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "JetBrains Mono",
+        body: "JetBrains Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
