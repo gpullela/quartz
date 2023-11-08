@@ -1,5 +1,5 @@
 ---
-title: 🪴Welcome to my digital garden! 🪴
+title: my digital garden 🪴
 date: 2023-11-07
 ---
 ---
