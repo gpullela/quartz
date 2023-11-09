@@ -15,6 +15,8 @@ One can use cellular automata such as [[CGOL|Conway's Game of Life]] in order to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_HcBAO_Yas?si=xxXKZzRYhOxa5y5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQJ5aEsP6Fs?si=PvHyASAY0YCuYfpB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---

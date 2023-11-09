@@ -11,6 +11,8 @@ The [[turing-machine|Turing Machine]] was invented by [[alan-turing|Alan Turing]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNRDvLACg5Q?si=pM7gO-dNvOt1TShB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZS_zFg4w5k?si=0UJGu7P3F2RdDbAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
