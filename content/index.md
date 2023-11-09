@@ -22,7 +22,7 @@ My name is Gourav Pullela and I am currently an undergraduate studying computer 
 
 ```mermaid
 graph TB;
-A["🕳️🐇"] --> low & high(high-level programming language) & hw(hardware description language);
+A["🕳️🐇"] --> low["Low-level programming language"] & high(high-level programming language) & hw(hardware description language);
 low --> asm(Assembly language) & c(c);
 c --> omp(OpenMP) --> cpu(CPU);
 asm --> isa(instruction set architecture) --> cpu;
@@ -31,7 +31,7 @@ ml --> jax --> cpu & gpu(GPU) & tpu(TPU);
 cpu & gpu & tpu --> hpc(HPC);
 hw --> v(Verilog) & sv(System Verilog) --> fpga(FPGA);
 class high,hw,asm,c,omp,cpu,isa,py,jax,ml,gpu,tpu,hpc,v,sv,fpga internal-links;
-click low href "./content/Engineering/low-level programming language";
+click low href "./content/Engineering/low-level-programming-language";
 ```
 
 ## Watch of the Week 📽️
