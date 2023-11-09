@@ -1,5 +1,5 @@
 ---
-title: The C Programming Language
+title: C (programming language)
 date: 2023-11-07
 ---
 ## Introduction

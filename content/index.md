@@ -14,6 +14,22 @@ My name is Gourav Pullela and I am currently an undergraduate studying computer 
 - [[HPC-in-RSA|HPC in RSA]]
 - [[misc |Others]]
 
+## the rabbit hole
+---
+
+>"*We're all mad here.*"
+\- Cheshire Cat, *Alice in Wonderland*
+
+```mermaid
+graph TB;
+A["🕳️🐇"] --> B[low-level programming language] & C[high-level programming language] & D[hardware description language];
+B --> E[Assembly language] & F[c] --> G[CPU];
+C --> H[Python] --> I[JAX] --> J[GPU];
+D --> K[Verilog] & L[System Verilog] --> M[FPGA];
+G & J & M --> N[HPC];
+class B,C,D,E,F,G,H,I,J,K,L,M,N internal-link;
+```
+
 ## Watch of the Week 📽️
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQ2QOPWZKVc?si=UcXjKbEb8rC90HqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

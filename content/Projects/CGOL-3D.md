@@ -4,7 +4,9 @@ date: 2023-11-07
 ---
 ## Introduction  
 
-This project is based on [[CGOL|Conway's Game of Life]].  For my initial implementation, I leveraged my knowledge [[c|C Programming]], [[HPC|High Performance Computing]], and [[OpenMP|the OpenMP library]] in order to develop a simple 3D adjusted simulation of the [[CGOL|Game of Life]].    
+This project is based on [[CGOL|Conway's Game of Life]].  For my initial implementation, I leveraged my knowledge [[c|C Programming]], [[HPC|High Performance Computing]], and [[OpenMP|the OpenMP library]] in order to develop a simple 3D adjusted simulation of the [[CGOL|Game of Life]].  As of now, the project only works on [[CPU|CPUs]].    
+
+I am currently working on building an implementation of this project using [[Python]] and [[JAX]], that runs using [[GPU|GPUs]].
 
 ---
 ## Presentation  

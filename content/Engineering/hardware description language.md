@@ -1,6 +1,6 @@
 ---
-title: High-level programming language
-date: 2023-11-08
+title: Hardware Description Language
+date: 2023-11-09
 ---
 ## Introduction
 
