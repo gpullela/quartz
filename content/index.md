@@ -31,7 +31,7 @@ ml --> jax --> cpu & gpu(GPU) & tpu(TPU);
 cpu & gpu & tpu --> hpc(HPC);
 hw --> v(Verilog) & sv(System Verilog) --> fpga(FPGA);
 class high,hw,asm,c,omp,cpu,isa,py,jax,ml,gpu,tpu,hpc,v,sv,fpga internal-links;
-click low href "./Engineering/low-level programming language";
+click low href "./content/Engineering/low-level programming language";
 ```
 
 ## Watch of the Week 📽️
