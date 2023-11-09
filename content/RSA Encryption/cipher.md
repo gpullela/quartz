@@ -1,15 +1,16 @@
 ---
-title: Universal Constructors
-date: 2023-11-07
+title: Cipher(s)
+date: 2023-11-08
 ---
 ## Introduction
 
-Lorem ipsum
+Lorem Ipsum
 
 ---
 ## Video(s)
 
-
+Lorem Ipsum
 
 ---
 ## Resources
+1. 
