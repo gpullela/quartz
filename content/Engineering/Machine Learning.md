@@ -1,11 +1,10 @@
 ---
-title: JAX
+title: Machine Learning
 date: 2023-11-09
 ---
 ## Introduction
 
 Lorem ipsum
-[[Machine Learning]] 
 
 ---
 ## Video(s)
