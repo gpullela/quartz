@@ -4,7 +4,7 @@ date: 2023-11-08
 ---
 ## Introduction
 
-In modern times, a [[low-level programming language]] is any language in which you (the developer) handle memory management. Any language where that memory management or garbage collection is done for you, which is now most languages, is considered [[high-level programming language|high level]].
+In modern times, a [[low-level programming language]] is any language in which you (the developer) handle memory management. That means that [[c|C]] is [[low-level programming language|low-level]] according to this definition.  Any language where that memory management or garbage collection is done for you, which is now most languages, is considered [[high-level programming language|high level]].
 
 >***Definition:** A low-level programming language is a programming language that provides little to no abstraction from a computer's [[instruction set architecture]].*
 
@@ -15,15 +15,7 @@ For a more in-depth comparison of [[low-level programming language|low-level]] a
 ---
 ## Video(s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4gwYkEK0gOk?si=QLVpOiSImCHXnhxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gh2RXE9BIN8?si=H1YPrnJJObQTzfQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jPDiaZS-2ok?si=xdKmUqk-0sPFqW6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## Resources
