@@ -22,16 +22,32 @@ My name is Gourav Pullela and I am currently an undergraduate studying computer 
 
 ```mermaid
 graph TB;
-A["🕳️🐇"] --> low["Low-level programming language"] & high(high-level programming language) & hw(hardware description language);
-low --> asm(Assembly language) & c(c);
-c --> omp(OpenMP) --> cpu(CPU);
-asm --> isa(instruction set architecture) --> cpu;
-high --> py(Python) --> jax(JAX) & ml(Machine Learning);
-ml --> jax --> cpu & gpu(GPU) & tpu(TPU);
-cpu & gpu & tpu --> hpc(HPC);
-hw --> v(Verilog) & sv(System Verilog) --> fpga(FPGA);
-class high,hw,asm,c,omp,cpu,isa,py,jax,ml,gpu,tpu,hpc,v,sv,fpga internal-links;
+A["🕳️🐇"] --> low["Low-level programming languages"] & high["High-level programming languages"] & hw["Hardware Description Languages"];
+low --> asm["Assembly language"] & c["C (programming language)"];
+c --> omp["OpenMP"] --> cpu["CPU"];
+asm --> isa["Instruction Set Architecture"] --> cpu;
+high --> py["Python (programming language)"] --> jax["JAX"] & ml["Machine Learning"];
+ml --> jax --> cpu & gpu["GPU"] & tpu["TPU"];
+cpu & gpu & tpu --> hpc["HPC"];
+hw --> v["Verilog"] & sv["System Verilog"] --> fpga["FPGA"];
+
 click low href "./Engineering/low-level-programming-language";
+click high href "./Engineering/high-level-programming-language";
+click hw href "./Engineering/hardware-description-language";
+click asm href "./Engineering/Assembly-language";
+click c href "./Engineering/c";
+click omp href "./Engineering/OpenMP";
+click cpu href "./Engineering/CPU";
+click isa href "./Engineering/instruction-set-architecture";
+click py href "./Engineering/Python";
+click jax href "./Engineering/JAX";
+click ml href "./Engineering/Machine-Learning";
+click gpu href "./Engineering/GPU";
+click tpu href "./Engineering/TPU";
+click hpc href "./Engineering/HPC";
+click v href "./Engineering/Verilog";
+click sv href "./Engineering/System-Verilog";
+click fpga href "./Engineering/FPGA";
 ```
 
 ## Watch of the Week 📽️
