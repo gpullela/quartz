@@ -17,4 +17,4 @@ It was a very educational project and overall a great learning experience!
 
 ---
 ## Learn more about the project!
-[Github](https://github.com/orgs/IUBSAT/repositories) | [[IUBSAT_Report.pdf |Report]]
+[Github](https://github.com/orgs/IUBSAT/repositories) | <a target="_blank" href=".././assets/IUBSAT/IUBSAT_Report.pdf">Paper</a>
