@@ -7,8 +7,14 @@ IUBSAT was our senior capstone project aimed at testing the sub-orbital flight r
 
 It was a very educational project and overall a great learning experience!
 
+---
 ## Presentation
-![[IUBSAT_presentation.pdf]]
+<object data="../assets/IUBSAT/IUBSAT_presentation.pdf" type="application/pdf" width="100%" height="500px">
+    <embed src="../assets/IUBSAT/IUBSAT_presentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/IUBSAT/IUBSAT_presentation.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
+---
 ## Learn more about the project!
 [Github](https://github.com/orgs/IUBSAT/repositories) | [[IUBSAT_Report.pdf |Report]]
