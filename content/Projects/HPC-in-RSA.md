@@ -13,4 +13,4 @@ This project was an implementation built on the research done for the paper I wr
 
 ---
 ## Resources
-[GitHub](https://github.com/gpullela/rsa) | <a tags="paper" target="_blank" href=".././assets/RSA/Math_Behind_RSA_Encryption.pdf">Paper</a>  
+[GitHub](https://github.com/gpullela/rsa) | [[Math_Behind_RSA_Encryption.pdf | Paper]]
